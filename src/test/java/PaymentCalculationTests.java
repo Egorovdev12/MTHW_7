@@ -8,7 +8,6 @@ public class PaymentCalculationTests {
     private final double YEAR_PERCENT = 12.0;
 
 
-
     @Test
     public void totalPaymentTest() {
 
